@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-12T15:29:03",
+  "timestamp": "2026-06-16T17:06:57",
   "linhas": [
     "Ofertas | Elo",
     "Vantagens e",
@@ -21,6 +21,10 @@
     "Auto",
     "Conectividade",
     "Soluções digitais",
+    "Crédito",
+    "Carro de Bois",
+    "Cliente Elo ganha 1 porção de pastel ou 1 pudim",
+    "Explorar benefício",
     "Débito e Crédito",
     "Altitude Park",
     "Use seu cartão Elo crédito ou débito e tenha 30% de desconto para compras de horas de diversão",
@@ -680,6 +684,7 @@
     "/ofertas/boxfarma/",
     "/ofertas/buddhaspa/",
     "/ofertas/canva/",
+    "/ofertas/carro-de-bois/",
     "/ofertas/cinemark-combo/",
     "/ofertas/cinemark-sala-prime/",
     "/ofertas/cinemark/",
