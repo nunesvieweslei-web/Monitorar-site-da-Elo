@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-18T13:27:14",
+  "timestamp": "2026-07-22T14:08:26",
   "linhas": [
     "Ofertas | Elo",
     "Vantagens e",
@@ -23,6 +23,10 @@
     "Conectividade",
     "Soluções digitais",
     "Promoções",
+    "Crédito e Débito",
+    "Parkstrom",
+    "Pague com seu cartão Elo e aproveite 50% de desconto para recarregar seu carro elétrico.",
+    "Explorar benefício",
     "Crédito e Débito",
     "Bradesco Festa de Prêmios",
     "Use seu cartão Bradesco Elo ou Bradescard Elo, ganhe 1 Número da Sorte a cada R$ 100 em compras e concorra a prêmios semanais.",
@@ -712,6 +716,7 @@
     "/ofertas/pague-menos/",
     "/ofertas/paguemenosextrafarma/",
     "/ofertas/parceiros/aramis/",
+    "/ofertas/parkstrom/",
     "/ofertas/playcenter/",
     "/ofertas/portaldasmalas-ferias/",
     "/ofertas/portaldasmalas/",
