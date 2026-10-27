@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T15:41:39",
+  "timestamp": "2026-10-27T17:48:05",
   "linhas": [
     "Ofertas | Elo",
     "Vantagens e",
@@ -25,6 +25,10 @@
     "Conectividade",
     "Soluções digitais",
     "Educação",
+    "Crédito",
+    "TotalPass",
+    "Acesse academias e atividades físicas com sem depender de empresa ou CNPJ.",
+    "Explorar benefício",
     "Crédito",
     "Clube iFood",
     "Ganhe um ano de Clube iFood para pedir nos seus restaurantes favoritos.",
@@ -833,6 +837,7 @@
     "/ofertas/televets-viagem/",
     "/ofertas/televets/",
     "/ofertas/thrifty/",
+    "/ofertas/totalpass/",
     "/ofertas/uber/",
     "/ofertas/ultragaz/",
     "/ofertas/verisure/",
